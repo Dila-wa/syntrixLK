@@ -2893,9 +2893,9 @@ const leaflet = {
     if (!mapContainer) {
       return;
     }
-    const leafletMap = L.map("map").setView([39.8283, -98.5795], 6);
+    const leafletMap = L.map("map").setView([6.899739579508769, 79.85362050278864], 79.85362050278864,13);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 18,
+      maxZoom: 19,
       minZoom: 3
     }).addTo(leafletMap);
     window.addEventListener("resize", () => {
