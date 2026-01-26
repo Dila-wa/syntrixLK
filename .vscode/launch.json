@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open login-page-02.html",
-            "file": "e:\\IITStuff\\SDGP\\site\\next-sass-html.vercel.app\\login-page-02.html"
+            "name": "index.html",
+            "file": "C:\\Users\\ASUS\\OneDrive - Informatics Institute of Technology\\Git\\syntrixLK\\syntrixLK\\index.html"
         }
     ]
 }
